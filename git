@@ -2,5 +2,12 @@
 to configure the username and email
 command (git config --global  user.name "" user.email "";
 next to connet the git repostory in the system git 
-git is verion control and its is a backbone of the all applicaton and software .the main role of git is to control the version
+git is verion control and its is a backbone of the all applicaton and software .the main role of git is to control the version.
+to clone the github repository file on the local machine (git clone repostory url).
+to create new file for the adding the repository(git add "filename").
+the file is adding  for the staging area the file is the local git folder,staging area means waiting for the new file.
+the command is (git commit -m filename )m means file name of commit changes.
+the next step is to update the github repostory to move on the file (git push origin (repositry url)
+
+
 //
